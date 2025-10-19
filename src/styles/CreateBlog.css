@@ -1,0 +1,30 @@
+.create-blog-container {
+  background:rgba(205, 240, 77, 0.9);
+  padding: 2rem;
+  border-radius: 10px;
+  margin-top: 2rem;
+  width: 90%;
+  max-width: 1100px;
+}
+
+.create-blog-container input,
+.create-blog-container textarea {
+  width: 100%;
+
+  margin-bottom: 1rem;
+  padding: 10px;
+}
+.box1{
+  background-color: rgb(197, 184, 7);
+}
+.box2{
+  background-color: rgb(197, 184, 7);
+}
+.submit-btn {
+  background: rgb(197, 184, 7);
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}

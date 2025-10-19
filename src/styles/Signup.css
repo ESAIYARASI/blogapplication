@@ -1,0 +1,16 @@
+.signup-bg {
+  min-height: 100vh;
+  background: url("")
+    no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-container {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 2rem;
+  border-radius: 10px;
+  width: 320px;
+  text-align: center;
+}

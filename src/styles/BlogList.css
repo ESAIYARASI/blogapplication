@@ -1,0 +1,23 @@
+.blog-list {
+  background: rgba(205, 240, 77, 0.9);
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 1100px;
+  max-height: 500px;
+  padding: 2rem;
+  border-radius: 20px;
+}
+
+.blog-card {
+  background: rgb(197, 184, 7);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.blog-card:hover {
+  transform: scale(1.02);
+  background: #fffb008e;
+}
